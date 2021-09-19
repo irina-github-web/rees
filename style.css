@@ -16,82 +16,82 @@ body {
 .container {
   max-width: 793px;
   /* padding-right: 15px;
-  padding-left: 15px; */
+    padding-left: 15px; */
   margin: auto;
 }
 .page1 .logo {
-    text-align: center;
-    margin: auto;
+  text-align: center;
+  margin: auto;
 }
 .page1 .title {
-    font-size: 2.5rem;
-    line-height: 1.2;
-    font-weight: 700;
-    text-align: center;
-    margin-top: 12rem;
+  font-size: 2.5rem;
+  line-height: 1.2;
+  font-weight: 700;
+  text-align: center;
+  margin-top: 12rem;
 }
 .page1 .date {
-    width: 800px;
-    margin: auto;
-    font-size: 0.8rem;
-    text-align: center;
-    margin-top: 20px;
-    border: 1px solid #6c757d;
-    padding: 5px;
+  width: 800px;
+  margin: auto;
+  font-size: 0.8rem;
+  text-align: center;
+  margin-top: 20px;
+  border: 1px solid #6c757d;
+  padding: 5px;
 }
 .page1 .details {
-    text-align: center;
+  text-align: center;
 }
 .page1 .details .title {
-    font-weight: 300;
-    color: rgba(0,0,0,.5);
-   font-size: 0.7rem;
-    margin-top: 150px;
+  font-weight: 300;
+  color: rgba(0, 0, 0, 0.5);
+  font-size: 0.7rem;
+  margin-top: 150px;
 }
 .page1 .details .number {
-    font-size: 1.5rem;
-    font-weight: 700;
+  font-size: 1.5rem;
+  font-weight: 700;
 }
 .page1 .details .address {
-    font-size: 1rem;
-} 
+  font-size: 1rem;
+}
 .ihfo {
-    list-style: none;
-    margin: 75px 0;
-    padding: 0;
+  list-style: none;
+  margin: 75px 0;
+  padding: 0;
 }
 .ihfo .ihfo-item {
-    max-width: 200px;
-    float: left;
-    font-size: 0.9rem;
-    text-align: center;
-    background-color: #f3f5f7;
-    padding: 33px 23px;
-    border-radius: 15px;
-    margin-right: 25px;
-    margin-bottom: 50px;
-    line-height: 17px;
+  max-width: 200px;
+  float: left;
+  font-size: 0.9rem;
+  text-align: center;
+  background-color: #f3f5f7;
+  padding: 33px 23px;
+  border-radius: 15px;
+  margin-right: 25px;
+  margin-bottom: 50px;
+  line-height: 17px;
 }
 .ihfo .ihfo-item:last-child {
-    margin-right: 0;
+  margin-right: 0;
 }
 .ihfo .ihfo-item i {
-    font-size: 0.9rem;
-    color: #6c757d;
-    border-radius: 50%;
-    margin-bottom: 15px;
+  font-size: 0.9rem;
+  color: #6c757d;
+  border-radius: 50%;
+  margin-bottom: 15px;
 }
 .info-list {
     margin: 75px 0;
 }
 .info-list td {
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     text-align: center;
     background: rgb(243 245 247);
-    padding: 33px 23px;
+    padding: 53px 43px;
+    margin-right: 30px;
     border-radius: 15px;
     margin-right: 25px;
     margin-bottom: 50px;
     line-height: 17px;
 }
-
