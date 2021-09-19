@@ -84,7 +84,7 @@ body {
 .info-list {
     margin: 75px 0;
 }
-.info-list tbody tr td {
+.info-list td {
     font-size: 0.6rem;
     text-align: center;
     background: #f3f5f7;
