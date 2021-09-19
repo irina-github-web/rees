@@ -87,7 +87,7 @@ body {
 .info-list td {
     font-size: 0.6rem;
     text-align: center;
-    background: #f3f5f7;
+    background: rgb(243 245 247);
     padding: 33px 23px;
     border-radius: 15px;
     margin-right: 25px;
